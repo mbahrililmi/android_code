@@ -1,0 +1,4 @@
+1. RelativeLayout=posisi scrol yang pleksibel
+2. FrameLayout= tumpukan frame
+3. TabelLayout=baris da kolom(tidak menampilkan garis pembatas untuk baris)
+     <TableRow>

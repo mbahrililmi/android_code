@@ -1,0 +1,35 @@
+A.Tipe data
+	1.int
+	2.float
+	3.char
+	4.long
+	5.doubel
+	6.boolean
+	7.byte
+	8.short
+
+B.java terdiri dari 3 komponen
+	1.input(nilai di masukan)
+		a.bufferedreader(tidak bisa berjalan sediri,dibutuhkan class InputStreamReader
+		b.scanner(data primitif dan string)
+	2.proses(serangkaian langkah yang di lakukan untuk mengelola input yang di berikan)
+		a.print
+		b.println
+	3.output(menampilkan hasil olahan data)
+
+C.tipe data
+	Tipe data sangat di perlukan dijava.
+	1.kita harus tau tipe data yg tersimpan di variabel
+	2.java bersifat(statically typed) setiap variabel harus dideklarasikan 
+       a.tipe data di java
+	1.Primitif
+	      a.byte(menampung angka)8 bit (byte a = 10)
+	      b.short(menampung angka)16 bit
+	      c.int(menampung angka)32 bit
+	      d.long(menampung angka)64bit
+	      e.float(menampung angka desimal)
+	      f.doubel(menampung anga desima)lebih besar dari float
+	      g.boolean(True or False)
+	      h.char(hanya huruf) penulisan (char item ='A')
+	
+	2.Reference

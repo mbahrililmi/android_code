@@ -1,0 +1,8 @@
+AndroidManifest.xml
+	1. nama package
+	     <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   	      package="com.dicoding.picodiploma.myapplication">
+	2.komponen aplikasi
+	    dari tag aplikasi sampai ditutup
+	3.permision
+	    <uses-permission android:name="android.permission.INTERNET"/>

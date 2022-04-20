@@ -1,0 +1,7 @@
+1.Drawable(Untuk menyimpan file gambar maupun ikon)
+
+2.Layout(Salah satu folder yang sering dipakai untuk file desain aplikasi)
+
+3.Mipmap(Untuk menyimpan logo dalam berbagai dimensi)
+
+4.Values(Berisi berbagai macam sumber data, seperti colors.xml untuk     warna,strings.xml untuk teks, dimens.xml untuk ukuran, dan styles.xml untuk         membuat style atau template)
